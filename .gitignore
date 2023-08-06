@@ -1,3 +1,4 @@
 .DS_Store
 *.DS_Store
 transformer/model_metadata/*
+transformer/temp/*
