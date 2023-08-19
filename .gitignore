@@ -2,3 +2,6 @@
 *.DS_Store
 transformer/model_metadata/*
 transformer/temp/*
+transformer/.ipynb_checkpoints/temp-checkpoint.ipynb
+*/.ipynb_checkpoints*
+*/.ipynb_checkpoints
